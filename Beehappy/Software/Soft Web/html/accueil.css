@@ -1,0 +1,34 @@
+#menu {
+	text-align:center;
+}	
+
+/* Menu Bar */
+div#menu { width:990px; height:auto; margin:0 auto 0 auto; padding:0; }
+div#menu a.lien_cour { float:left; height:auto; margin:0 auto 0 auto; padding:0 0 2px 0; 
+			font-size:16px; font-weight:300; text-decoration:none; display:block; 
+			}
+div#menu a.lien_norm { float:left; height:auto; margin:0 auto 0 auto; padding:0 0 2px 0; 
+			font-size:16px; font-weight:300; text-decoration:none; display:block; 
+			border-top:0.1px solid; border-bottom:0.1px solid; border-left:1px solid;
+			}
+			
+			/* couleur et taille menu */
+div#menu a.index_cour { background-color:#231f20; color:#cc9933; }
+div#menu a.index_norm { background-color:#cc9933; color:#231f20; }
+div#menu a.index_norm:hover { background-color:#231f20; color:#cc9933; }
+
+div#menu a.first { width:198px; border-left:0px }
+div#menu a.other{ width:197px; border-left:1px solid #231f20; }
+
+
+
+body { 	margin:0 auto 0 auto; padding:0;
+		 
+		/* A changer pour mettre la photo*/
+		text-align:justify;background-color:#3F3430;
+		font-family: 'Dosis', sans-serif;
+		font-size:15px;  color:#41352f; 
+
+		background-position:top center;
+		background-repeat:no-repeat;
+		}	
