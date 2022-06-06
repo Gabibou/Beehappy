@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name beehappy)(type Legacy)(uri "C:/Users/gabri/Desktop/USMB - Groupe Bee Happy/Kicad/Library/Schema/beehappy.lib")(options "")(descr ""))
+  (lib (name BeeHappy-rescue)(type Legacy)(uri ${KIPRJMOD}/BeeHappy-rescue.lib)(options "")(descr ""))
+)
